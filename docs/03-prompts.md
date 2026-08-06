@@ -1,5 +1,3 @@
-- parei na aula 03-prompts - tempo: 20:14
-
 # Prompts do Agente
 
 ## System Prompt
