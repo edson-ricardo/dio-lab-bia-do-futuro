@@ -53,15 +53,9 @@ REGRAS:
 
 ### Pergunta fora do escopo
 
-**Usuário:**
-```
-[ex: Qual a previsão do tempo para amanhã?]
-```
+**Usuário:** "Qual é a previsão do tempo para amanhã?"
 
-**Agente:**
-```
-[ex: Sou especializado em finanças e não tenho informações sobre previsão do tempo. Posso ajudar com algo relacionado as suas finanças?]
-```
+**Rico:** "" Sou especializado em finanças e não tenho informações sobre previsão do tempo. Posso ajudar com algo relacionado as suas finanças?
 
 ---
 
