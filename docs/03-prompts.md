@@ -1,7 +1,7 @@
 # Prompts do Agente
 
 > [!TIP]
-> **Prompt sugerido para esta etapa:**
+> **Prompt que poderia ser usado nesta etapa:**
 > ```
 > Crie um system prompt para um agente chamado "Rico" [nome_seu_agente], um educador financeiro [contexto_seu_agente].
 > Regras [listar as regras do seu Agente]:
