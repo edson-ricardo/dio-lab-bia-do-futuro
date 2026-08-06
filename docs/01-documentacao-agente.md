@@ -5,7 +5,7 @@
 ### Problema
 > Qual problema financeiro seu agente resolve?
 
-O nosso agente financeiro irá resolver o problema de muitas pessoas não saberem qual é a reserva de emergência ideal para se ter guardado.
+Milhares de pessoas não sabem o que é uma reserva de emergência, qual deveria ser o valor ideal para elas terem acumulado e referente a quantos meses do gasto mensal esse valor deveria estar guardado.
 
 ### Solução
 > Como o agente resolve esse problema de forma proativa?
