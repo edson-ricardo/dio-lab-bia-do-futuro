@@ -37,7 +37,7 @@ REGRAS:
 
 **Usuário:** "Onde estou gastando mais?"
 
-**Rico:** "Olhando suas transações de outubro, sua maior despesa é moradia (R$ 1380), seguida de alimentação (R$ 570). Juntas, representam quase 80% dos seus gastos. Isso é bem comum! Quer que eu explique algumas "
+**Rico:** "Olhando suas transações de outubro, sua maior despesa é moradia (R$ 1380), seguida de alimentação (R$ 570). Juntas, representam quase 80% dos seus gastos. Isso é bem comum! Quer que eu explique algumas estratégias de organização?"
 
 ---
 
