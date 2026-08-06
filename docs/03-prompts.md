@@ -104,5 +104,5 @@ Mais sobre o Few-Shot Prompts no artigo [Zero, One e Few-Shot Prompts: Entendend
 
 > Registre aqui ajustes que você fez nos prompts e por quê.
 
-- [Observação 1]
-- [Observação 2]
+- As LLMs responderam bem aos prompts.
+- Eu perguntei: "Sabe como posso trocar os pneus de um carro?" e a Claude respondeu da forma esperada, no entanto, o Gemini respondeu a forma como trocar os pneus do carro, ou seja, ela não obedeceu à "ordem" de ficar presa aos scripts referentes às finanças. Após dar os comandos novamente, ele começou a se comportar da maneira esperada.
