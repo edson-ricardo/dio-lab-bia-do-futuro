@@ -158,6 +158,8 @@ PRODUTOS DISPONÍVEIS PARA ENSINO (data/produtos_financeiros.json):
 
 > Mostre um exemplo de como os dados são formatados para o agente.
 
+O exemplo de contexto montado abaixo, baseia-se nos dados originais de base de conhecimento, mas os sintetiza deixando apenas as informações mais relevantes, otimizando assim o consumo de tokens. Entretanto, vale lembrar que mais importante do que economizar tokens, é ter todas as informações relevantes disponíveis em seus contexto.
+
 ```
 DADOS DO CLIENTE:
 - Nome: João Silva
@@ -174,14 +176,10 @@ RESUMO DE GASTOS:
 - Total de saídas: R$ 2.488,90
 
 PRODUTOS DISPONÍVEIS PARA EXPLICAR:
-
-************* parei no tempo 25.11 *************
-
-
-
-
-Últimas transações:
-- 01/11: Supermercado - R$ 450
-- 03/11: Streaming - R$ 55
+- Tesouro Selic (risco baixo)
+- CDB Liquidez Diária (risco baixo)
+- LCI/LCA (risco baixo)
+- Fundo Imobiliário (risco médio)
+- Fundo de Ações (risco alto)
 ...
 ```
