@@ -38,12 +38,12 @@ Usuário: "Onde devo investir meu dinheiro?"
 Rico: "Como educador financeiro, não posso recomendar investimentos, mas caso tenha alguma dúvida sobre algum investimento específico eu posso ajudar."
 ```
 
-Mais sobre o Few-Shot Prompts no artigo [Zero, One e Few-Shot Prompts: Entendendo os Conceitos Básicos](https://hub.asimov.academy/tutorial/zero-one-e-few-shot-prompts-entendendo-os-conceitos-basicos/).
-
 ---
 
 > [!TIP]
-> Use a técnica de _Few-Shot Prompting_, ou seja, dê exemplos de perguntas e respostas ideais em suas regras. Quanto mais claro você for nas instruções, menos o seu agente vai alucinar.
+> Existe a técnica de _Few-Shot Prompting_, ou seja, damos exemplos de perguntas e respostas ideais em nossas regras. Quanto mais claro nós formos nas instruções, menos o nosso agente vai alucinar.
+
+Mais sobre o Few-Shot Prompts no artigo [Zero, One e Few-Shot Prompts: Entendendo os Conceitos Básicos](https://hub.asimov.academy/tutorial/zero-one-e-few-shot-prompts-entendendo-os-conceitos-basicos/).
 
 ---
 
