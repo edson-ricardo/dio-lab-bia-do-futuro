@@ -29,26 +29,7 @@ ollama serve
 streamlit run app.py
 ```
 
-## Estrutura Sugerida
+## Evidência de Execução
 
-```
-src/
-├── app.py              # Aplicação principal (Streamlit)
+<img width="702" height="811" alt="image" src="https://github.com/user-attachments/assets/a7a3bd38-4cbe-4e88-a8ac-8c753b6fb61f" />
 
-## Exemplo de requirements.txt
-
-```
-streamlit
-openai
-python-dotenv
-```
-
-## Como Rodar
-
-```bash
-# Instalar dependências
-pip install -r requirements.txt
-
-# Rodar a aplicação
-streamlit run app.py
-```
