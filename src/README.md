@@ -13,6 +13,19 @@ ollama run gpt-oss "Olá!"
 
 ## Código Completo
 
+Todo o código-fonte está no arquivo `app.py`.
+
+## Como Rodar
+```bash
+# Instalar dependências
+pip install -r requirements.txt
+
+# Rodar a aplicação
+streamlit run app.py
+```
+
+
+
 
 ## Estrutura Sugerida
 
